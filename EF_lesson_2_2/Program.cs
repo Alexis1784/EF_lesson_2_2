@@ -17,6 +17,7 @@ namespace EF_lesson_2_2
                 {
                     Console.WriteLine("{0}.{1} - {2}", u.Id, u.Name, u.Age);
                 }
+                Console.ReadLine();
             }
         }
     }
